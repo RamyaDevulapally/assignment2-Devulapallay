@@ -30,6 +30,6 @@ The following table describes cities that I would recommend someone to visit.
 |Hyderabad|Charminar|5 Hours|
 |Mumbai|Taj Hotel| 1 Days|
 |Delhi|India Gate|3 Hours|
-|Chennai|Marina beach||8 Hours|
+|Chennai|Marina beach|8 Hours|
 
 ---

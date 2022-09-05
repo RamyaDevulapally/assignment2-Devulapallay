@@ -20,3 +20,16 @@
 * Mexcian grill
 
 **[Link to AboutMe](AboutMe.md)**
+
+# Sports Activities - Table
+
+The following table describes cities that I would recommend someone to visit.
+
+|Name of the city|Location|Amount of time to spend|    
+|:---:|:---:|:---:|
+|Hyderabad|Charminar|5 Hours|
+|Mumbai|Taj Hotel| 1 Days|
+|Delhi|India Gate|3 Hours|
+|Chennai|Marina beach||8 Hours
+
+---

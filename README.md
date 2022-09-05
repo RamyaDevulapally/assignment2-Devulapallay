@@ -11,3 +11,10 @@
 3. Before reaching to museu, there will be a landmark- India Mart
 4. From India mart, it is a distance of 0.9Mi.
 5. will see museum just besides the DQ Restaurant.
+
+#### list of other locations around the museum that I recommed for others.
+* Desi Bytes
+* Khol's
+* Legend's
+* Macy's
+* Mexcian grill

@@ -33,3 +33,10 @@ The following table describes cities that I would recommend someone to visit.
 |Chennai|Marina beach|8 Hours|
 
 ---
+
+# Pithy Quotes
+>  "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart" —*Helen Keller*   <br>
+    
+>  "It always seems impossible unitl its done" —*Nelson Mandela*
+
+---

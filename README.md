@@ -21,7 +21,7 @@
 
 **[Link to AboutMe](AboutMe.md)**
 
-# Sports Activities - Table
+# City Visits - Table
 
 The following table describes cities that I would recommend someone to visit.
 

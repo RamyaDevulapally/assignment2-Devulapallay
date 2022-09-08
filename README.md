@@ -1,9 +1,10 @@
-# assignment2-Devulapally
+# assignment2-Devulapallay-
 # Ramya Devulapally
 ### The museum of modern art<br>
-##### Museum of Modern Art (aka MoMa) houses one of the world’s finest collections of modern art. In addition to its **renowned permanent collection**, MoMa presents special exhibitions (that are often among the hottest tickets in town), and **special events**. With six floors of galleries showcasing thousands of artworks, it can be challenging to navigate the large museum and find key works. But fear not: we’ve compiled a list of some of MoMa’s most significant artworks.
+Museum of Modern Art (aka MoMa) houses one of the world’s finest collections of modern art. In addition to its **renowned permanent collection**, MoMa presents special exhibitions (that are often among the hottest tickets in town), and **special events**. With six floors of galleries showcasing thousands of artworks, it can be challenging to navigate the large museum and find key works. But fear not: we’ve compiled a list of some of MoMa’s most significant artworks.
 
 ---
+
 # Directions to Museum from the airport
 ### Nearest airport to Museum location- Kansas
 1. Take a safe ride from kansas Airport to Lee's summit.
@@ -21,6 +22,8 @@
 
 **[Link to AboutMe](AboutMe.md)**
 
+---
+
 # City Visits - Table
 
 The following table describes cities that I would recommend someone to visit.
@@ -35,8 +38,23 @@ The following table describes cities that I would recommend someone to visit.
 ---
 
 # Pithy Quotes
->  "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart" —*Helen Keller*   <br>
+>  "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart" —*Helen Keller*   
     
 >  "It always seems impossible unitl its done" —*Nelson Mandela*
 
 ---
+
+# Code Fencing
+>Deleting an element from an array in PHP
+>
+[PHP code question source](https://stackoverflow.com/questions/369602/deleting-an-element-from-an-array-in-php)
+
+```
+$execution_time = microtime(); // Start counting
+
+// Your code
+
+$execution_time = microtime() - $execution_time;
+printf('It took %.5f sec', $execution_time);
+```
+[PHP code snippet source](https://css-tricks.com/snippets/php/count-script-excecution-time/)
